@@ -1,0 +1,58 @@
+{
+  "posts": [
+    {
+      "name": "sneha",
+      "surname": "kale",
+      "phone": "9284840867",
+      "id": "sneha@gmail.com",
+      "password": "123456",
+      "cpassword": "123456",
+      "gender": "female"
+    },
+    {
+      "name": "vaibhav",
+      "surname": "kale",
+      "phone": "9284840866",
+      "id": "vaibhav@gmail.com",
+      "password": "451265",
+      "cpassword": "451265",
+      "gender": "male"
+    },
+    {
+      "name": "rutu",
+      "surname": "pasare",
+      "phone": "9284840869",
+      "id": "rutu@gmail.com",
+      "password": "963852",
+      "cpassword": "963852",
+      "gender": "female"
+    },
+    {
+      "name": "rutu",
+      "surname": "pasare",
+      "phone": "9284840867",
+      "id": "rutu1@gmail.com",
+      "password": "222222",
+      "cpassword": "222222",
+      "gender": "female"
+    },
+    {
+      "name": "vaibhav",
+      "surname": "kale",
+      "phone": "9822285634",
+      "id": "vaibhav1200@gmail.com",
+      "password": "vaibhav@123",
+      "cpassword": "vaibhav@123",
+      "gender": "male"
+    },
+    {
+      "name": "renuka",
+      "surname": "adwe",
+      "phone": "1234567891",
+      "id": "renuka@gmail.com",
+      "password": "123456",
+      "cpassword": "123456",
+      "gender": "female"
+    }
+  ]
+}

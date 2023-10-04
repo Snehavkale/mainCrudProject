@@ -1,0 +1,15 @@
+
+@media (min-width:100px) and (max-width:600px) {
+    .button{
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        gap: 10px;
+    }
+  .edit{
+    font-size: 10px;
+  }
+  .delete{
+    font-size: 10px;
+  }
+}

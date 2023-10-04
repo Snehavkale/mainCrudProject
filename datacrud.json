@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "name": "shopping",
+      "date": "2023-09-22",
+      "amount": "7000",
+      "id": 1
+    },
+    {
+      "name": "movie",
+      "date": "2023-09-07",
+      "amount": "500",
+      "id": 2
+    },
+    {
+      "name": "petrol",
+      "date": "2023-09-14",
+      "amount": "1000",
+      "id": 3
+    },
+    {
+      "name": "drink",
+      "date": "2023-09-15",
+      "amount": "500",
+      "id": 4
+    }
+  ]
+}
